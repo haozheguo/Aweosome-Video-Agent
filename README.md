@@ -17,14 +17,14 @@
 # 1️⃣ Awesome Papers
 
 > ⚠️ 这里整理的所有论文均开源代码，并且已排除代码仓库为空的情况。
->
+> 
 > ❗️ 总结部分只针对论文方法总结，不介绍论文其他方面（比如论文提出benchmark构造思路）
 
 <details open>
 <summary><strong>2026</strong></summary>
 <div>
 
-#### Agentic Very Long Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2601.18157-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2601.18157) [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://longvideoagent.github.io/) [![Abstract](https://img.shields.io/badge/Abstract-中文翻译-0ea5e9?logo=bookstack&logoColor=white)](paper_abstract/2026/2601.18157_EGAgent.md)
+#### Agentic Very Long Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2601.18157-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2601.18157) [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://facebookresearch.github.io/egagent) [![Abstract](https://img.shields.io/badge/Abstract-中文翻译-0ea5e9?logo=bookstack&logoColor=white)](paper_abstract/2026/2601.18157_EGAgent.md)
 
 - **🏅 出处**：Arxiv
 - **🏫 单位**：Reality Labs Research at Meta；University of Wisconsin-Madison
@@ -35,12 +35,11 @@
 </div>
 </details>
 
-
 <details open>
 <summary><strong>2025</strong></summary>
 <div>
 
-#### LongVideoAgent: Multi-Agent Reasoning with Long Videos [![arXiv](https://img.shields.io/badge/arXiv-2512.20618-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2512.20618) [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://facebookresearch.github.io/egagent) [![Abstract](https://img.shields.io/badge/Abstract-中文翻译-0ea5e9?logo=bookstack&logoColor=white)](paper_abstract/2025/2512.20618_LongVideoAgent.md)
+#### LongVideoAgent: Multi-Agent Reasoning with Long Videos [![arXiv](https://img.shields.io/badge/arXiv-2512.20618-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2512.20618) [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://longvideoagent.github.io/) [![Abstract](https://img.shields.io/badge/Abstract-中文翻译-0ea5e9?logo=bookstack&logoColor=white)](paper_abstract/2025/2512.20618_LongVideoAgent.md)
 
 - **🏅 出处**：Arxiv
 - **🏫 单位**：Hong Kong University of Science and Technology；Monash University
@@ -107,7 +106,6 @@
 </div>
 </details>
 
-
 <details open>
 <summary><strong>2024</strong></summary>
 <div>
@@ -147,7 +145,6 @@
 </div>
 </details>
 
-
 ---
 
 # 2️⃣ Awesome Benchmarks
@@ -162,7 +159,6 @@
 
 </div>
 </details>
-
 
 <details open>
 <summary><strong>2025</strong></summary>
@@ -211,7 +207,6 @@
 </div>
 </details>
 
-
 <details open>
 <summary><strong>2024</strong></summary>
 <div>
@@ -235,7 +230,6 @@
 </div>
 </details>
 
-
 <details>
 <summary><strong>更早之前</strong></summary>
 <div>
@@ -246,7 +240,6 @@
 
 </div>
 </details>
-
 
 ## Contribution
 
@@ -259,3 +252,4 @@ If you discover any missing work or have any suggestions, please feel free to su
 ## About
 
 Exploring the latest papers in Video Agent and long video understanding.
+
