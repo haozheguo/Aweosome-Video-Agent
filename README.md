@@ -8,7 +8,7 @@
 
 <img src='https://awesome.re/badge.svg' alt='Survey'>
 <img src='https://img.shields.io/badge/Related Work-10+ Papers-blue' alt='MorePapers'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.03.11-red' alt='MorePapers'>
+<img src='https://img.shields.io/badge/Update 🔥-2026.03.15-red' alt='MorePapers'>
 
 </div>
 
@@ -20,20 +20,27 @@
 >
 > ❗️ 总结部分只针对论文方法总结，不介绍论文其他方面（比如论文提出benchmark构造思路）
 
-<details>
+<details open>
 <summary><strong>2026</strong></summary>
 <div>
 
-暂无条目
+#### Agentic Very Long Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2601.18157-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2601.18157) [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://longvideoagent.github.io/) [![Abstract](https://img.shields.io/badge/Abstract-中文翻译-0ea5e9?logo=bookstack&logoColor=white)](paper_abstract/2026/2601.18157_EGAgent.md)
+
+- **🏅 出处**：Arxiv
+- **🏫 单位**：Reality Labs Research at Meta；University of Wisconsin-Madison
+- **✨ 总结**：针对现有方法难以支持跨天的组合式、多跳超长视频推理问题，论文提出EGAgent，通过带时间标注的实体图结合视觉、音频检索与规划智能体，实现超长视频的跨模态、多跳推理。
+- **🚀 是否Training-Free**：✅
+- **📊 评测数据集**：EgoLifeQA、Video-MME（Long）
 
 </div>
 </details>
+
 
 <details open>
 <summary><strong>2025</strong></summary>
 <div>
 
-#### LongVideoAgent: Multi-Agent Reasoning with Long Videos [![arXiv](https://img.shields.io/badge/arXiv-2512.20618-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2512.20618) [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://longvideoagent.github.io/) [![Abstract](https://img.shields.io/badge/Abstract-中文翻译-0ea5e9?logo=bookstack&logoColor=white)](paper_abstract/2025/2512.20618_LongVideoAgent.md)
+#### LongVideoAgent: Multi-Agent Reasoning with Long Videos [![arXiv](https://img.shields.io/badge/arXiv-2512.20618-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2512.20618) [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://facebookresearch.github.io/egagent) [![Abstract](https://img.shields.io/badge/Abstract-中文翻译-0ea5e9?logo=bookstack&logoColor=white)](paper_abstract/2025/2512.20618_LongVideoAgent.md)
 
 - **🏅 出处**：Arxiv
 - **🏫 单位**：Hong Kong University of Science and Technology；Monash University
@@ -100,6 +107,7 @@
 </div>
 </details>
 
+
 <details open>
 <summary><strong>2024</strong></summary>
 <div>
@@ -139,6 +147,7 @@
 </div>
 </details>
 
+
 ---
 
 # 2️⃣ Awesome Benchmarks
@@ -153,6 +162,7 @@
 
 </div>
 </details>
+
 
 <details open>
 <summary><strong>2025</strong></summary>
@@ -201,6 +211,7 @@
 </div>
 </details>
 
+
 <details open>
 <summary><strong>2024</strong></summary>
 <div>
@@ -224,6 +235,7 @@
 </div>
 </details>
 
+
 <details>
 <summary><strong>更早之前</strong></summary>
 <div>
@@ -234,6 +246,7 @@
 
 </div>
 </details>
+
 
 ## Contribution
 
