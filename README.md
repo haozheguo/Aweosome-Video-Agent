@@ -24,6 +24,14 @@
 <summary><strong>2026</strong></summary>
 <div>
 
+#### Tempo：Small Vision-Language Models are Smart Compressors for Long Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2604.08120-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2604.08120) [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://feielysia.github.io/tempo-page) [![Abstract](https://img.shields.io/badge/Abstract-中文翻译-0ea5e9?logo=bookstack&logoColor=white)](paper_abstract/2026/2604.08120_Tempo.md)
+
+- **🏅 出处**：Arxiv
+- **🏫 单位**：Meta AI；King Abdullah University of Science and Technology (KAUST)
+- **✨ 总结**：论文提出Tempo，用小型视觉语言模型作为局部压缩器生成与查询对齐的视频记忆，再由全局大语言模型完成理解与生成。进一步提出ATA策略，利用零样本相关性先验和语义前置特性，在严格预算下动态分配token，兼顾关键细节保留与全局时间连续性。
+- **🚀 是否Training-Free**：❌
+- **📊 评测数据集**：LongVideoBench、MLVU、Video-MME 和 LVBench（Long）
+
 #### Agentic Very Long Video Understanding [![arXiv](https://img.shields.io/badge/arXiv-2601.18157-b31b1b?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/2601.18157) [![GitHub](https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white)](https://facebookresearch.github.io/egagent) [![Abstract](https://img.shields.io/badge/Abstract-中文翻译-0ea5e9?logo=bookstack&logoColor=white)](paper_abstract/2026/2601.18157_EGAgent.md)
 
 - **🏅 出处**：Arxiv
