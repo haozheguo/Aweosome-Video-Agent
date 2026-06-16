@@ -34,7 +34,7 @@
 
 # 📰 News
 
-- **Up to ![Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2Ftime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FShanghai&query=%24.date&label=Date&color=0A66C2&cacheSeconds=120) ** The repository includes **14** related papers and **13** benchmarks. 🔥🔥🔥
+- **Up to** ![Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2Ftime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FShanghai&query=%24.date&label=Date&color=0A66C2&cacheSeconds=120) The repository includes **14** related papers and **13** benchmarks. 🔥🔥🔥
 - **[2026.06.16]**  We updated the repository design and **systematically categorized papers** about long video understanding, including agentic based methods and non-agentic based methods.
 - **[2026.03.11]**  The github repository named “**Awesome-Video-Agent**” is created. 🎂🎂🎂
 
