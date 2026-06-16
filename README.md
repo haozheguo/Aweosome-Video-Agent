@@ -16,23 +16,21 @@
 
 ---
 
-<details>
-  <summary><strong>Table of Contents</strong></summary>
 
 
-  - [📰 News](#-news)
-  - [1️⃣ Awesome Agentic Based Papers](#1️⃣-awesome-agentic-based-papers)
-    - [🤖 Training-Free Work](#-training-free-work)
-    - [🚀 Training Work](#-training-work)
-    - [🐰 Other Type Work](#-other-type-work)
-  - [2️⃣ Awesome Non-Agentic Papers](#2️⃣-awesome-non-agentic-papers)
-    - [📷 Select Frame Work](#-select-frame-work)
-    - [♻️ Efficiency-Trade-Off Work](#️-efficiency-trade-off-work)
-  - [3️⃣ Awesome Benchmarks](#3️⃣-awesome-benchmarks)
-    - [⚙️ Eval Benchmarks](#️-eval-benchmarks)
-  - [🙎 Contribution](#-contribution)
+## Table of Contents
 
-</details>
+- [📰 News](#-news)
+- [1️⃣ Awesome Agentic Based Papers](#1️⃣-awesome-agentic-based-papers)
+  - [🤖 Training-Free Work](#-training-free-work)
+  - [🚀 Training Work](#-training-work)
+  - [🐰 Other Type Work](#-other-type-work)
+- [2️⃣ Awesome Non-Agentic Papers](#2️⃣-awesome-non-agentic-papers)
+  - [📷 Select Frame Work](#-select-frame-work)
+  - [♻️ Efficiency-Trade-Off Work](#️-efficiency-trade-off-work)
+- [3️⃣ Awesome Benchmarks](#3️⃣-awesome-benchmarks)
+  - [⚙️ Eval Benchmarks](#️-eval-benchmarks)
+- [🙎 Contribution](#-contribution)
 
 
 
