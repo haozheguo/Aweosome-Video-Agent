@@ -8,19 +8,39 @@
 
 <img src='https://awesome.re/badge.svg' alt='Survey'>
 <img src='https://img.shields.io/badge/Related Work-10+ Papers-blue' alt='MorePapers'>
-<img src='https://img.shields.io/badge/Update 🔥-2026.06.16-red' alt='MorePapers'><a href="https://blog.csdn.net/qq_60587145/category_13136456.html"><img alt="CSDN" src="https://img.shields.io/badge/CSDN-Blog-FC5531?logo=rss&logoColor=white"></a>
+<img src='https://img.shields.io/badge/Update 🔥-2026.06.16-red' alt='MorePapers'>
+
+<a href="https://blog.csdn.net/qq_60587145/category_13136456.html"><img alt="CSDN" src="https://img.shields.io/badge/CSDN-Blog-FC5531?logo=rss&logoColor=white"></a>
 
 </div>
 
 ---
 
-[TOC]
+<details>
+  <summary><strong>Table of Contents</strong></summary>
+
+
+  - [📰 News](#-news)
+  - [1️⃣ Awesome Agentic Based Papers](#1️⃣-awesome-agentic-based-papers)
+    - [🤖 Training-Free Work](#-training-free-work)
+    - [🚀 Training Work](#-training-work)
+    - [🐰 Other Type Work](#-other-type-work)
+  - [2️⃣ Awesome Non-Agentic Papers](#2️⃣-awesome-non-agentic-papers)
+    - [📷 Select Frame Work](#-select-frame-work)
+    - [♻️ Efficiency-Trade-Off Work](#️-efficiency-trade-off-work)
+  - [3️⃣ Awesome Benchmarks](#3️⃣-awesome-benchmarks)
+    - [⚙️ Eval Benchmarks](#️-eval-benchmarks)
+  - [🙎 Contribution](#-contribution)
+
+</details>
+
+
 
 # 📰 News
 
-- 🔥🔥🔥 Up to ![Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2Ftime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FShanghai&query=%24.date&label=Date&color=0A66C2&cacheSeconds=120)，the repository includes **14** related papers and **13** benchmarks. 🔥🔥🔥
-- **[2026.06.16]** We updated the repository design and **systematically categorized papers** about long video understanding, including agentic based methods and non-agentic based methods.
-- **[2026.03.11]** 🎂🎂🎂 The github repository named “**Awesome-Video-Agent**” is created. 🎂🎂🎂
+-  **Up to ![Date](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftimeapi.io%2Fapi%2Ftime%2Fcurrent%2Fzone%3FtimeZone%3DAsia%2FShanghai&query=%24.date&label=Date&color=0A66C2&cacheSeconds=120) ** The repository includes **14** related papers and **13** benchmarks. 🔥🔥🔥
+- **[2026.06.16]**  We updated the repository design and **systematically categorized papers** about long video understanding, including agentic based methods and non-agentic based methods.
+- **[2026.03.11]**  The github repository named “**Awesome-Video-Agent**” is created. 🎂🎂🎂
 
 
 
@@ -43,14 +63,13 @@
 |  2026  |  EGAgent   | Agentic Very Long Video Understanding. <br/><a href="https://arxiv.org/pdf/2601.18157"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2601.18157-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://facebookresearch.github.io/egagent"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2026/2601.18157_EGAgent.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |           -            |
 |  2025  |  LongShOT  | A Benchmark and Agentic Framework for Omni-Modal Reasoning and Tool Use in Long Videos<br/><a href="https://arxiv.org/pdf/2512.20618"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.20618-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://longvideoagent.github.io/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2025/2512.20618_LongVideoAgent.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |                        |
 |  2025  |    AVP     | Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding.<br/><a href="https://arxiv.org/pdf/2512.05774"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.05774-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://activevideoperception.github.io/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2025/2512.05774_Active_Video_Perception.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |           -            |
-|  2025  |   LongVT   | LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling<br/><a href="https://arxiv.org/pdf/2511.20785"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.20785-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://evolvinglmms-lab.github.io/LongVT/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2025/2511.20785_LongVT.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |       CVPR 2026        |
 |  2025  |   Vgent    | Vgent: Graph-based Retrieval-Reasoning-Augmented Generation For Long Video Understanding<br/><a href="https://arxiv.org/pdf/2510.14032"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2510.14032-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://xiaoqian-shen.github.io/Vgent/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2025/2510.14032_Vgent.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> | NeurIPS 2025 Spotlight |
 |  2025  | VideoLucy  | VideoLucy: Deep Memory Backtracking for Long Video Understanding.<br/><a href="https://arxiv.org/pdf/2510.12422"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2510.12422-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://videolucy.github.io/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2025/2510.12422_VideoLucy.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |      NeurIPS 2025      |
 |  2025  |    DVD     | Deep Video Discovery: Agentic Search with Tool Use for Long-form Video Understanding.<br/><a href="https://arxiv.org/pdf/2505.18079"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2505.18079-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://github.com/microsoft/DeepVideoDiscovery"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2025/2505.18079_Deep_Video_Discovery.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |      NeurIPS 2025      |
 |  2024  |  DrVideo   | DrVideo: Document Retrieval Based Long Video Understanding.<br/><a href="https://arxiv.org/pdf/2406.12846"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2406.12846-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://github.com/Upper9527/DrVideo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2024/2406.12846_DrVideo.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |       CVPR 2025        |
 |  2024  | VideoTree  | VideoTree: Adaptive Tree-based Video Representation for LLM Reasoning on Long Videos.<br/><a href="https://arxiv.org/pdf/2405.19209"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2405.19209-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://videotree2024.github.io/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2024/2405.19209_VideoTree.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |       CVPR 2025        |
 |  2024  | VideoAgent | VideoAgent: Long-form Video Understanding with Large Language Model as Agent<br/><a href="https://arxiv.org/pdf/2403.10517"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.10517-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://wxh1996.github.io/VideoAgent-Website/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2024/2403.10517_VideoAgent_LongForm.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |       ECCV 2024        |
-|  2024  | VideoAgent | VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding<a href="https://arxiv.org/abs/2403.11481"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.11481-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://videoagent.github.io/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2024/2403.11481_VideoAgent_MemoryAugmented.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |       ECCV 2024        |
+|  2024  | VideoAgent | VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding.<br/><a href="https://arxiv.org/abs/2403.11481"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2403.11481-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://videoagent.github.io/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2024/2403.11481_VideoAgent_MemoryAugmented.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |       ECCV 2024        |
 
 
 
@@ -65,6 +84,7 @@
 | :----: | :------------: | :----------------------------------------------------------- | :-------: |
 |  2025  | LongVideoAgent | LongVideoAgent: Multi-Agent Reasoning with Long Videos <br/><a href="https://arxiv.org/pdf/2512.20618"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2512.20618-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://longvideoagent.github.io/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2025/2512.20618_LongVideoAgent.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> |     -     |
 |  2025  |   Video-CoM    | Video-CoM: Interactive Video Reasoning via Chain of Manipulations.<br/><a href="https://arxiv.org/pdf/2511.23477"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.23477-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://github.com/mbzuai-oryx/Video-CoM"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2025/2511.23477_Video_CoM.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> | CVPR 2026 |
+|  2025  |     LongVT     | LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling<br/><a href="https://arxiv.org/pdf/2511.20785"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2511.20785-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://evolvinglmms-lab.github.io/LongVT/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Project-181717?logo=github&logoColor=white"></a> <a href="paper_abstract/2025/2511.20785_LongVT.md"><img alt="Abstract" src="https://img.shields.io/badge/Abstract-Summary-0ea5e9?logo=bookstack&logoColor=white"></a> | CVPR 2026 |
 
 
 
