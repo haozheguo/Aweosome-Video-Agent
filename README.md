@@ -112,6 +112,13 @@
 Model Training Work
 
 
+## 🧹 Data Curation Work
+
+| ⏰ Year | 🍀 Method | ✨ Full Name | 🏅Source |
+| :----: | :------: | :---------- | :-----: |
+| 2026 | VidGround | Watch Before You Answer: Learning from Visually Grounded Post-Training. <br/><a href="https://arxiv.org/abs/2604.05117"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.05117-b31b1b?logo=arxiv&logoColor=white"></a> <a href="https://github.com/reacher-z/vidground"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white"></a> | - |
+
+
 
 ## 📷 Select Frame Work
 
@@ -170,4 +177,3 @@ If you discover any missing work or have any suggestions, please feel free to su
 About
 
 Exploring the latest papers in Video Agent and long video understanding.
-
